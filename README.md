@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Çam</h1>
 <h3 align="center">A frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js** and **Tailwind CSS**
 
 - 📫 How to reach me **zzistaken@gmail.com**
 
